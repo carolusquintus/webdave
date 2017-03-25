@@ -204,6 +204,7 @@ window.onload = function () {
         return;
     }
     resources = new AssetLoader();
+    debug.init();
     audioAPI.init();
     resources.onAssetsLoaded = init;
     resources.init([
