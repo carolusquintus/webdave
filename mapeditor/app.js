@@ -26,7 +26,7 @@ var debug = {
 };
 
 var viewportContextanchor = {
-    x: 490,
+    x: 1000,
     y: 20,
     width: 48,
     height: 64
