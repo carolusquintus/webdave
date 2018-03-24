@@ -1,0 +1,1006 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"exist",
+				"exist2\tbool ν"
+			],
+			[
+				"ele",
+				"elements2\tmap[string]string ν"
+			],
+			[
+				"elem",
+				"elements3\tmap[string]map[string]string ν"
+			],
+			[
+				"On",
+				"OneToTen3\t ƒ"
+			],
+			[
+				"ON",
+				"OneToTen2\t ƒ"
+			],
+			[
+				"O",
+				"OneToTen2\t ƒ"
+			],
+			[
+				"Pin",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"print",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"Type",
+				"TypeOf\treflect.Type ƒ"
+			],
+			[
+				"Prni",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"T",
+				"TypeOf\treflect.Type ƒ"
+			],
+			[
+				"err",
+				"errors\t package ρ"
+			],
+			[
+				"Fi",
+				"FileInfo\tinterface ¡"
+			],
+			[
+				"Re",
+				"Readdir\t[]os.FileInfo, error ƒ"
+			],
+			[
+				"ma",
+				"func main\tfunc main {...} ʂ"
+			],
+			[
+				"W",
+				"WriteString\tn int, err error ƒ"
+			],
+			[
+				"Rea",
+				"ReadFile\t[]byte, error ƒ"
+			],
+			[
+				"s",
+				"Stat\tos.FileInfo, error ƒ"
+			],
+			[
+				"pr",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"To",
+				"ToUpper\tstring ƒ"
+			],
+			[
+				"Has",
+				"HasSuffix\tbool ƒ"
+			],
+			[
+				"tes",
+				"testpair\tstruct ʈ"
+			],
+			[
+				"Pi",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"Sp",
+				"Sprintf\tstring ƒ"
+			],
+			[
+				"circleArea",
+				"circleAreaPointer\tfloat64 ƒ"
+			],
+			[
+				"P",
+				"Pi\t Ɩ"
+			],
+			[
+				"im",
+				"import\timport (...) ʂ"
+			],
+			[
+				"Print",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"func",
+				"func\tfunc {...} ʂ"
+			],
+			[
+				"Prin",
+				"Println\tn int, err error ƒ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sounds/score_200.mp3",
+			"settings":
+			{
+				"buffer_size": 51840,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "world.js",
+			"settings":
+			{
+				"buffer_size": 15302,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Golang Build/Go.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"new go",
+				"GoSublime: New Go File"
+			],
+			[
+				"build",
+				"Build With: Go - Run"
+			],
+			[
+				"gosublime",
+				"Build With: GoSublime"
+			],
+			[
+				"go",
+				"Build With: Go"
+			],
+			[
+				"mat",
+				"Material Theme: Configuration"
+			],
+			[
+				"run",
+				"Build With: Go - Run"
+			],
+			[
+				"t",
+				"Terminal: Open"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"rand",
+				"Random:Int"
+			],
+			[
+				"random",
+				"Random:Int"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"A File Icon: Changelog"
+			],
+			[
+				"materi",
+				"Material Theme: Configuration"
+			],
+			[
+				"material ",
+				"Material Theme: Configuration"
+			],
+			[
+				"activa",
+				"Material Theme: Activate theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"colorsu",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorsc",
+				"ColorSchemeSelector: Random Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/carlos/Desarrollo/webdave",
+		"/C/Users/carlos/Desarrollo/webdave/mapeditor",
+		"/C/Users/carlos/Desarrollo/webdave/monsters",
+		"/C/Users/carlos/Desarrollo/webdave/sounds",
+		"/C/Users/carlos/Desarrollo/webdave/sprites"
+	],
+	"file_history":
+	[
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch07/evenGenerator.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch07/add.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch07/defer.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch07/panic.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch07/factorial.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch07/problems.go",
+		"/C/Users/carlos/Desarrollo/mbqw/pmbqwd",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch04/global_var.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch07/increment.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch07/func.go",
+		"/C/Desarrollo/skw/appContext.xml",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch07/average_func.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch13/test.txt",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch13/crc32.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch13/readFile_hard.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch13/readFile_easy.go",
+		"/C/Go/src/io/ioutil/ioutil.go",
+		"/C/Go/src/archive/zip/writer.go",
+		"/C/Go/src/html/entity.go",
+		"/C/Go/src/encoding/base64/base64.go",
+		"/C/Go/src/encoding/xml/xml.go",
+		"/C/Users/carlos/Desarrollo/go-learn/Skoob/Learning Go Programming - Vladimir Vivien .pdf",
+		"/C/Go/src/unicode/utf8/utf8.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch06/average.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch06/maps.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch06/smallest.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch05/no_erase",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch05/module_three.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch06/slice.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch05/for_statement.go",
+		"/C/Go/src/sort/sort.go",
+		"/C/Go/src/sort/search_test.go",
+		"/C/Go/src/reflect/type.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch05/fizzbuzz.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch05/one_to_ten.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch05/switch_statement.go",
+		"/C/Users/carlos/AppData/Roaming/Sublime Text 3/Packages/GoSublime/syntax/GoSublime-Go.sublime-syntax",
+		"/C/Users/carlos/AppData/Roaming/Sublime Text 3/Packages/GoSublime/syntax/GoSublime-Go-Legacy.sublime-syntax",
+		"/C/Users/carlos/AppData/Roaming/Sublime Text 3/Packages/GoSublime/syntax/GoSublime-9o.sublime-syntax",
+		"/C/Users/carlos/AppData/Roaming/Sublime Text 3/Packages/GoSublime/syntax/GoSublime-GsDoc.sublime-syntax",
+		"/C/Users/carlos/AppData/Roaming/Sublime Text 3/Packages/GoSublime/syntax/GoSublime-Template.sublime-syntax",
+		"/C/Users/carlos/AppData/Roaming/Sublime Text 3/Packages/golangconfig/all/golangconfig.py",
+		"/C/Users/carlos/AppData/Roaming/Sublime Text 3/Installed Packages/Golang Build.sublime-package",
+		"/C/Users/carlos/AppData/Roaming/Sublime Text 3/Packages/golangconfig/dev/api_docs.py",
+		"/C/Users/carlos/AppData/Roaming/Sublime Text 3/Packages/GoSublime/syntax/GoSublime-HTML.sublime-syntax",
+		"/C/Users/carlos/Desarrollo/mbqw/dhs",
+		"/C/Users/carlos/Desarrollo/go/intro_go/src/ch03/scope.go",
+		"/C/Users/carlos/AppData/Roaming/Sublime Text 3/Packages/Colorsublime - Themes/Foggy-Morning.tmTheme",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch05/OneToTen.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch04/const.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch04/enter_number.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch03/string.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch04/mult_var.go",
+		"/C/Go/src/go/constant/value.go",
+		"/C/Go/src/crypto/cipher/xor.go",
+		"/C/Go/src/crypto/md5/md5block_386.s",
+		"/C/Users/carlos/Desktop/hosts",
+		"/C/Desarrollo/skw/SPREAD/spread-core/src/test/resources/xbrl/ar/2HVCFI-eer23_2018_Anexo_NBIS1.xbrl",
+		"/C/Go/src/go/constant/value_test.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch04/hello_var.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch04/var_assignment.go",
+		"/C/Go/README.md",
+		"/C/Go/robots.txt",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch03/bool.go",
+		"/C/Go/blog/content/go-maps-in-action/list.go",
+		"/C/Go/blog/content/go-maps-in-action/people.go",
+		"/C/Go/blog/content/survey2016/mkhtml.go",
+		"/C/Go/blog/template/article.tmpl",
+		"/C/Go/misc/cgo/fortran/fortran.go",
+		"/C/Go/misc/cgo/fortran/fortran_test.go",
+		"/C/Go/misc/cgo/fortran/helloworld/helloworld.f90",
+		"/C/Go/misc/cgo/fortran/answer.f90",
+		"/C/Go/misc/cgo/stdio/fib.go",
+		"/C/Go/test/stress/maps.go",
+		"/C/Go/test/stress/parsego.go",
+		"/C/Go/CONTRIBUTING.md",
+		"/C/Go/misc/cgo/testsanitizers/test.bash",
+		"/C/Go/misc/chrome/gophertool/background.html",
+		"/C/Go/misc/chrome/gophertool/background.js",
+		"/C/Go/misc/linkcheck/linkcheck.go",
+		"/C/Go/misc/sortac/sortac.go",
+		"/C/Go/misc/swig/callback/callback.go",
+		"/C/Go/pkg/windows_amd64/strings.a",
+		"/C/Go/lib/time/Mexico/General",
+		"/C/Go/lib/time/Mexico/BajaNorte",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch03/bool2.go",
+		"/C/Go/src/strings/strings.go",
+		"/C/Go/src/strings/strings.s",
+		"/C/Go/src/strings/strings_test.go",
+		"/C/Go/blog/content/first-go-program/slist.go",
+		"/C/Go/blog/content/context/interface.go",
+		"/C/Go/api/README",
+		"/C/Go/blog/content/constants/bool.go",
+		"/C/Go/blog/content/constants/string4.go",
+		"/C/Go/blog/content/context/google/google.go",
+		"/C/Go/blog/content/context/gorilla/gorilla.go",
+		"/C/Go/blog/content/context/server/server.go",
+		"/C/Go/blog/content/context/userip/userip.go",
+		"/C/Go/api/go1.8.txt",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch03/main.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch02/hello_world.go",
+		"/C/Go/doc/play/life.go",
+		"/C/Go/doc/progs/cgo3.go",
+		"/C/Go/doc/go1.8.txt",
+		"/C/Go/doc/articles/wiki/final.go",
+		"/C/Go/doc/codewalk/run",
+		"/C/Go/doc/progs/cgo2.go",
+		"/C/Go/src/fmt/print.go",
+		"/C/Users/carlos/.m2/settings.xml",
+		"/C/Desarrollo/skw/SPREAD/spread-core/src/test/resources/xbrl/ar/CFE_2018_Anexo N.xbrl",
+		"/C/Users/carlos/AppData/Roaming/Sublime Text 3/Packages/GoSublime/9o.md",
+		"/C/Users/carlos/Desarrollo/go-learn/Skoob/An Introduction to Programming in Go - Caleb Doxsey.pdf",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch13/list.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch13/errors.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch13/openDir.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch13/createFile.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch13/recursiveDir.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/recursiveDir.go",
+		"/C/Users/carlos/Desarrollo/go-learn/openDir.go",
+		"/C/Users/carlos/Desarrollo/go-learn/Skoob/The Go Programming Language - Alan Donovan, Brian Kernighan.pdf",
+		"/C/Users/carlos/Desarrollo/go-learn/Skoob/The Go Programming Language Phrasebook - David Chisnall.pdf",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch12/math_test.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch13/strings.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch11/main.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch11/math/average.go",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/src/ch11/other/fizzbuzz.go",
+		"/C/Users/carlos/AppData/Local/Temp/7zOB177.tmp/Look in here....txt",
+		"/C/Users/carlos/Desarrollo/go-learn/An_Intro_to_Go/ch11/math/average.go"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":",
+			";",
+			":",
+			"db0",
+			"dp0",
+			":",
+			"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\n",
+			"xml",
+			"readAll",
+			"StringSlice",
+			":\"",
+			"]\"",
+			":",
+			"\t",
+			"case",
+			"cas",
+			"%",
+			"iota",
+			"iotra",
+			"iota",
+			"reverse",
+			"badVerb",
+			"write",
+			"Min",
+			"max",
+			"Max",
+			"\", ",
+			"())",
+			"num",
+			",",
+			",,",
+			"\t\t,,,,,,",
+			",,,,,,\n\t\t,,,,,,\n\t\t,,,,,,\n\t\t,,,,,,\n\t\t,,,,,,\n\t\t,,,,,,",
+			",",
+			"smmallest",
+			"value",
+			"small",
+			"\\",
+			"github",
+			":",
+			";",
+			"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\nuGAjJmNPcR2w8b6ubc109w==\n",
+			";"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sounds/score_200.mp3",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1199,
+								1199
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (Audio).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "world.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 15302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1441,
+								1441
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										1432,
+										1433
+									]
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										1432,
+										1433
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\Users\\carlos\\Desarrollo\\go-learn\\An_Intro_to_Go\\src\\ch02":
+	{
+		"height": 110.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 104.0
+	},
+	"output.crypto_error":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.golang_build":
+	{
+		"height": 182.0
+	},
+	"pinned_build_system": "",
+	"project": "webdave_win.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"av",
+				"An_Intro_to_Go\\src\\ch06\\average.go"
+			],
+			[
+				"maps",
+				"An_Intro_to_Go\\src\\ch06\\maps.go"
+			],
+			[
+				"fi",
+				"An_Intro_to_Go\\src\\ch05\\fizzbuzz.go"
+			],
+			[
+				"mul",
+				"An_Intro_to_Go\\src\\ch04\\mult_var.go"
+			],
+			[
+				"bool",
+				"An_Intro_to_Go\\src\\ch03\\bool.go"
+			],
+			[
+				"main.",
+				"An_Intro_to_Go\\src\\ch03\\main.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
